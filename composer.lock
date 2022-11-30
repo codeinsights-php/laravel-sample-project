@@ -1088,11 +1088,11 @@
             "time": "2022-10-19T21:46:50+00:00"
         },
         {
-            "name": "juris-d3/codeinsights-php-debugger-library",
+            "name": "codeinsights-php/php-debugger-library",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "git@github:juris-d3/codeinsights-php-debugger-library.git",
+                "url": "https://github.com/codeinsights-php/php-debugger-library.git",
                 "reference": "7a665787d5f6e69b9d153e2d6a7123c0dfe3da4d"
             },
             "require": {
@@ -8161,7 +8161,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "juris-d3/codeinsights-php-debugger-library": 20
+        "codeinsights-php/php-debugger-library": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
