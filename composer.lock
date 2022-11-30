@@ -1093,7 +1093,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/codeinsights-php/php-debugger-library.git",
-                "reference": "7a665787d5f6e69b9d153e2d6a7123c0dfe3da4d"
+                "reference": "cd25dfb7b5a88a550ccc5882e700e2ba8e40057e"
             },
             "require": {
                 "pusher/pusher-php-server": "^7.2",
